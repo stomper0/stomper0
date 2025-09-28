@@ -25,4 +25,4 @@
 - AI tooling (voice actors & automation experiments)
 
 ### 📫 Links
-[![Business Profile]](https://github.com/idata-frank)  
+[Business Profile](https://github.com/idata-frank)  
