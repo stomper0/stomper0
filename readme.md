@@ -13,10 +13,10 @@
 - Support and manage broad spectrum IT, both internally and for customers
 
 ### 🧰 My toolbox
-**Languages & Frameworks:** VB, C# (.NET 8), Python, PHP/HTML/JS/CSS
-**Databases:** PostgreSQL, SQL Server, MySQL  
-**IT Systems & Infra:** Windows Server, Linux (Debian/Bash), Networking  
-**Other Tools:** Git, Unifi, Inno Setup, OpenXML, Web Requests
+- **Languages & Frameworks** - VB, C# (.NET 8), Python, PHP/HTML/JS/CSS
+- **Databases** - PostgreSQL, SQL Server, MySQL  
+- **IT Systems & Infra** - Windows Server, Linux (Debian/Bash), Networking  
+- **Other Tools** - Git, Unifi, Inno Setup, OpenXML, Web Requests
 
 ### 🌱 Currently learning
 - OAuth & advanced API integrations (REST/JSON)  
